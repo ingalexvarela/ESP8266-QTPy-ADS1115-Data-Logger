@@ -57,5 +57,4 @@ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, crea un for
 | Correo: marvibo29@gmail.com         | Correo: alex.varela@ucr.ac.cr            |
 | ![Imagen de María](https://i.postimg.cc/4dnD57G3/Mari.png) | [![Icono Pequeño](https://i.postimg.cc/hvtdRL0p/iconopeque.jpg)](https://postimg.cc/k6L4xtzb)               |
 
-- GitHub: [Repositorio]([https://github.com/ingalexvarela/HackRF-One-Projects](https://github.com/ingalexvarela/ESP8266-QTPy-ADS1115-Data-Logger)https://github.com/ingalexvarela/ESP8266-QTPy-ADS1115-Data-Logger)
-
+- GitHub: [Repositorio](https://github.com/ingalexvarela/ESP8266-QTPy-ADS1115-Data-Logger)
