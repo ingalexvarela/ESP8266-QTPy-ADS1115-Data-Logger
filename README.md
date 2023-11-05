@@ -8,6 +8,7 @@ Este repositorio alberga un sistema de registro de datos que utiliza una combina
 
 ### Tabla de contenidos
 
+- [Diseño](#Diseño)
 - [Instalación](#instalación)
 - [Uso](#Uso)
 - [Licencia](#licencia)
@@ -15,6 +16,8 @@ Este repositorio alberga un sistema de registro de datos que utiliza una combina
 - [Contribuciones](#Contribuciones)
 - [Contacto](#contacto)
 
+## Diseño
+<a href="https://postimg.cc/DJTN0k38" target="_blank"><img src="https://i.postimg.cc/G28nMdMJ/Dise-o-en-papel.jpg" alt="Dise-o-en-papel"/></a><br/><br/>
 ## Instalación
 
 REQUIERE las siguientes bibliotecas de Arduino:
